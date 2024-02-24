@@ -34,7 +34,7 @@ export default function Header() {
           <AiOutlineSearch />
         </Button>
         <div className="flex gap-2 md:order-2">
-          <button className="w-12 h-10 hidden sm:inline" color="gray" pill>
+          <button className="w-12 h-10 hidden sm:inline rounded" color="gray">
             <FaMoon />
           </button>
           <Button gradientDuoTone="purpleToBlue" outline>
